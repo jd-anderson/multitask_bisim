@@ -1,4 +1,4 @@
-# Policy Gradient Bounds in Multitask Linear Quadratic Control
+# Policy Gradient Bounds in Multitask LQR
 
 This repository includes the Python codes to implement the experimental results of the following paper:
 
