@@ -2,7 +2,7 @@
 
 This repository includes the Python codes to implement the experimental results of the following paper:
 
-1) C. Stamouli, L. F. Toso, A. Tsiamis, G. J. Pappas, J. Anderson (2025). [Policy Gradient Bounds in Multitask Linear Quadratic Control]()
+1) C. Stamouli, L. F. Toso, A. Tsiamis, G. J. Pappas, J. Anderson (2025). [Policy Gradient Bounds in Multitask LQR]()
 
 
 ## Instructions
